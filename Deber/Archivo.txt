@@ -1,0 +1,10 @@
+Nombre: jorgeApellido: ramos
+Cédula: 1727672006
+Edad: 19
+
+
+Nombre: BillyApellido: ramos
+Cédula: 1727675002
+Edad: 15
+
+
