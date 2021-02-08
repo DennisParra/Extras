@@ -1,0 +1,8 @@
+﻿  Archivo.cpp
+  Lista.cpp
+  Main.cpp
+  Persona.cpp
+  Archivo.h
+  Generando código...
+Debug\Archivo.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+  Deber.vcxproj -> C:\Users\Lenovo\Desktop\U\Bases de datos\DeberesP2\Deber\Debug\DeberListaArchivos.exe
