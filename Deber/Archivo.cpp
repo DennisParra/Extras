@@ -4,10 +4,10 @@ void Archivo::crearArchivo(Persona persona) {
 
 	ofstream archivo;
 
-	archivo.open("C://Users//Lenovo//Desktop//U//Bases de datos//DeberesP2//Deber//Archivo.txt", ios::out | ios::app);
+	archivo.open("C://Users//EQUIPO//Desktop//Estructura De Datos//Segundo Parcial//Extra//Archivo.txt", ios::out | ios::app);
 
 	if (archivo.fail()) {
-		cout << "Erro!! Archivo no pudo ser creado ";
+		cout << "Error!! Archivo no pudo ser creado ";
 		exit(1);
 	}
 

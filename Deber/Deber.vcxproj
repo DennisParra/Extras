@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Edad.h" />
     <ClInclude Include="Fecha.h" />
     <ClInclude Include="Ingreso.h" />
     <ClInclude Include="Lista.h" />
@@ -147,6 +148,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Archivo.cpp" />
+    <ClCompile Include="Cedula.cpp" />
+    <ClCompile Include="Edad.cpp" />
     <ClCompile Include="Fecha.cpp" />
     <ClCompile Include="Lista.cpp" />
     <ClCompile Include="Main.cpp" />
